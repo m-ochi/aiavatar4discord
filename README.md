@@ -26,7 +26,7 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
 2. DiscordのBOTの作成
     1. [Discord Developers](https://discord.com/developers/applications)でBOT-\>Createを選択、BOTを作成する
         - (名前)-avatar という名称にしてください
-    2. 作成したBOTからTokenを取得する
+    2. 作成したBOTからTokenを取得する。(下記画像のReset Tokenを押す)
     ![Integrationの選択](./figs/scsho1.png)
 
 3. config.ymlの編集（各キーの入力）
