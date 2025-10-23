@@ -53,4 +53,5 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
 1. `python3 main.py`
 2. (user)-avatarにDMで話しかけると指定したチャンネルに投稿してくれるかテスト
 3. 指定したチャンネルでユーザが投稿すると(user)-avatarからDMが来るかテスト
+- 常駐させたい場合は、epiktetosの端末上で `byobu` としてそこで実行させ続けてください
 
