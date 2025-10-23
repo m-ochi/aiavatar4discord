@@ -49,3 +49,8 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
                 1. Discord上のチャンネル名を右クリック
                 2. 一番下のチャンネルIDをコピーをクリック
 
+### 実行
+1. `python3 main.py`
+2. (user)-avatarにDMで話しかけると指定したチャンネルに投稿してくれるかテスト
+3. 指定したチャンネルでユーザが投稿すると(user)-avatarからDMが来るかテスト
+
