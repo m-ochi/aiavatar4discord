@@ -1,0 +1,6 @@
+discord_bot_token: "xxxx"
+discord_bot_name: "(user)-avatar"
+target_user_id: 99999
+target_channel_id: 99999
+gemini_api_key: "xxxx"
+model_gemini: "gemini-2.0-flash"
