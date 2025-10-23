@@ -18,7 +18,7 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
 1. このプロジェクトをgit cloneしてください
 2. `cd aiavatar4discord`
 3. uv sync
-4. . .venv/bin/activate
+4. `. .venv/bin/activate`
 
 ### 準備
 1. GEMINIのAPIキーの取得
