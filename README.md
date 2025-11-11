@@ -39,7 +39,7 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
         - 2-2で取得したTokenを記入
     2. discord_bot_nameの設定
         - 設定したBOTのUsernameを入力
-    3. target_user_idの設定
+    3. target_user_idの設定(自分のユーザIDです)
         - target_user_idは自分でDiscord上で調べる必要がある。やり方は以下の通り
             1. 開発者モードをONにする
                 1. 自分のアイコンの右にある設定をクリック
@@ -48,7 +48,7 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
             1. ユーザIDの取得
                 1. Discord上の左下の自分のアイコンを右クリック
                 2. 一番下のユーザIDをコピーをクリック
-    4. target_channel_idの設定
+    4. target_channel_idの設定（作成したBOTが投稿するチャンネルのIDです）
         - target_channel_idは自分でDiscord上で調べる必要がある。やり方は以下の通り
             1. チャンネルIDの取得
                 1. Discord上のチャンネル名を右クリック
