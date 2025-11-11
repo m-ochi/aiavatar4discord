@@ -24,7 +24,7 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
 
 ### Discordへの登録
 1. [Ochilab](https://discord.gg/TvaVf3df)に登録または招待される
-2. [#agent_discussion](https://discord.gg/BMGCtwQH) チャンネルに招待される（開発時は別のチャンネルを作ってやってください）
+2. [#agent_discussion](https://discord.gg/BMGCtwQH) チャンネルに招待される（開発時は別のチャンネル(例えば、[#bot_test](https://discord.gg/wpyYSVW8))を作ってやってください）
 
 ### 準備
 1. GEMINIのAPIキーの取得
