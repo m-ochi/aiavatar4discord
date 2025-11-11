@@ -15,10 +15,11 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
 ## 実行方法
 
 ### 実行環境の構築
-1. このプロジェクトをgit cloneしてください
-2. `cd aiavatar4discord`
-3. uv sync
-4. `. .venv/bin/activate`
+1. このプロジェクトをforkして自分のリポジトリにしてください
+1. forkしたプロジェクトをgit cloneしてください
+1. `cd aiavatar4discord`
+1. uv sync
+1. `. .venv/bin/activate`
 
 ### 準備
 1. GEMINIのAPIキーの取得
