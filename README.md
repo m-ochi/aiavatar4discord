@@ -21,6 +21,10 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
 1. uv sync
 1. `. .venv/bin/activate`
 
+### Discordへの登録
+1. Ochilabに登録または招待される
+2. #agent_discussion チャンネルに招待される（開発時は別のチャンネルを作ってやってください）
+
 ### 準備
 1. GEMINIのAPIキーの取得
     - GEMINIのAPIキーは[Google Cloudのコンソール](https://console.cloud.google.com/apis/credentials/key)や[Google AI Studio](https://aistudio.google.com/app/api-keys)から作れます
@@ -36,7 +40,7 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
     2. discord_bot_nameの設定
         - 設定したBOTのUsernameを入力
     3. target_user_idの設定
-        - target_user_idは自分で調べる必要がある。やり方は以下の通り
+        - target_user_idは自分でDiscord上で調べる必要がある。やり方は以下の通り
             1. 開発者モードをONにする
                 1. 自分のアイコンの右にある設定をクリック
                 2. 詳細設定をクリック
@@ -45,7 +49,7 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
                 1. Discord上の右下の自分のアイコンを右クリック
                 2. 一番下のユーザIDをコピーをクリック
     4. target_channel_idの設定
-        - target_channel_idは自分で調べる必要がある。やり方は以下の通り
+        - target_channel_idは自分でDiscord上で調べる必要がある。やり方は以下の通り
             1. チャンネルIDの取得
                 1. Discord上のチャンネル名を右クリック
                 2. 一番下のチャンネルIDをコピーをクリック
