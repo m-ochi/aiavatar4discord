@@ -23,8 +23,8 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
 1. `. .venv/bin/activate`
 
 ### Discordへの登録
-1. Ochilabに登録または招待される
-2. #agent_discussion チャンネルに招待される（開発時は別のチャンネルを作ってやってください）
+1. [Ochilab](https://discord.gg/TvaVf3df)に登録または招待される
+2. [#agent_discussion](https://discord.gg/BMGCtwQH) チャンネルに招待される（開発時は別のチャンネルを作ってやってください）
 
 ### 準備
 1. GEMINIのAPIキーの取得
