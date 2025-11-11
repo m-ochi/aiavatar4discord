@@ -15,6 +15,7 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
 ## 実行方法
 
 ### 実行環境の構築
+    - pythonの仮想環境ツールは2025年はuvが有名です。anacondaやvenv等を使うのはやめましょう
 1. このプロジェクトをforkして自分のリポジトリにしてください
 1. forkしたプロジェクトをgit cloneしてください
 1. `cd aiavatar4discord`
