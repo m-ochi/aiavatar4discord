@@ -46,7 +46,7 @@ Discordの[BOT](https://discord.com/developers/applications)という機能を�
                 2. 詳細設定をクリック
                 3. 開発者モードをオンにする
             1. ユーザIDの取得
-                1. Discord上の右下の自分のアイコンを右クリック
+                1. Discord上の左下の自分のアイコンを右クリック
                 2. 一番下のユーザIDをコピーをクリック
     4. target_channel_idの設定
         - target_channel_idは自分でDiscord上で調べる必要がある。やり方は以下の通り
